@@ -26,7 +26,7 @@ app.use('/api/user', userRouter);
 app.use('/api/polls', pollRouter);
 app.use('/api/chat', chatRouter);
 
-// Initialize WebSocket handling 
+// Initialize WebSocket  
 initializeSocket(server);
 
 server.listen(5000, () => {
