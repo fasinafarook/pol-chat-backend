@@ -33,4 +33,3 @@ export const handleNewMessage = async (socket: Socket, { username, message }: { 
     }
   };
 
-  
