@@ -6,7 +6,7 @@ import { handleNewMessage } from '../controllers/chatController'; // Import cont
 const initializeSocket = (server: http.Server) => {
   const io = new SocketIOServer(server, {
     cors: {
-      origin: 'http://localhost:3000',
+      origin: 'poll-app-wheat-five.vercel.app',
       methods: ['GET', 'POST'],
     },
   });
