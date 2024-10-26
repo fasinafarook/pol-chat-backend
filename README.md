@@ -34,7 +34,7 @@ A real-time polling and chat application using Node.js with TypeScript, Express,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/poll-app.git
+   git clone https://github.com/fasinafarook/pol-chat-backend.git
    cd poll-app
    ```
 
