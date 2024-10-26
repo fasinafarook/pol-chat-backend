@@ -1,5 +1,5 @@
 # poll-chat-backend
-Here’s a sample `README.md` file for your project:
+
 
 ```markdown
 # Poll App
